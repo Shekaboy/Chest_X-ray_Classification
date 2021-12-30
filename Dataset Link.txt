@@ -1,0 +1,1 @@
+https://www.kaggle.com/nickuzmenkov/nih-chest-xrays-tfrecords/data
